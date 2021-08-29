@@ -2,7 +2,7 @@
 
 <h3>About Me</h3> 
 :computer: I’m currently working on <a href="https://nave.rs/)">Nave.rs</a> as development team leader. I contribute with my team to reach their goals. I'm currently learning about tests, design patterns, non-relational databases and also about team management. 
-
+<br/><br/>
 <h3>Some Technologies That I Worked</h3>
 <div style="display: inline_block">
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -26,11 +26,15 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 </div>
 
+<br/><br/>
+
 <h3>About My Github</h3>
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloMennaSilveira&count_private=true&show_icons=true&theme=dracula"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ItaloMennaSilveira&count_private=true&show_icons=true&theme=dracula"/>
 </div>
+
+<br/><br/>
 
 <h3>Where To Find Me</h3>
 <div>
