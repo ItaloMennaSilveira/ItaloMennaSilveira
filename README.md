@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Italo Menna Silveira</h1> 
 
 <h3>About Me</h3> 
-:computer: I’m currently working on <a href="https://nave.rs/)">Nave.rs</a> as development team leader. I'm contribuing with my team to we reach our goals. I'm currently learning about tests, design patterns, non-relational databases and also about team management. 
+:computer:
 <br/><br/>
 
 <h3>About My Github</h3>
