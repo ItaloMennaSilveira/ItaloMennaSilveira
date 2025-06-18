@@ -3,13 +3,6 @@
 <h3>About Me</h3> 
 :computer:
 <br/><br/>
-
-<h3>About My Github</h3>
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloMennaSilveira&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ItaloMennaSilveira&count_private=true&show_icons=true&theme=dracula"/>
-</div>
-
 <br/><br/>
 
 <h3>Where To Find Me</h3>
